@@ -47,4 +47,3 @@ By integrating this toast notification system, developers can enhance the user e
 ## Connect With Me
 Feel free to star, fork, or contribute to this project! For more inquiries or collaborations, connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile).
 
-Make sure to replace `https://github.com/yourgithubusername/toast-notification-system.git` and `https://www.linkedin.com/in/yourlinkedinprofile` with your actual GitHub repository URL and LinkedIn profile URL. This README includes basic installation steps, a brief description, and highlights the educational purpose and practical applications of the project.
