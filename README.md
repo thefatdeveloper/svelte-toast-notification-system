@@ -16,8 +16,8 @@ This project demonstrates the implementation of a toast notification system usin
 ## Installation and Usage
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourgithubusername/toast-notification-system.git
-   cd toast-notification-system
+   git clone https://github.com/thefatdeveloper/svelte-toast-notification-system.git
+   cd svelte-toast-notification-system
    ```
    
 2. **Install Dependencies:**
@@ -45,5 +45,5 @@ This project can serve as a foundation for understanding how to implement and ma
 By integrating this toast notification system, developers can enhance the user experience by providing immediate and relevant feedback that helps users understand the application's state and actions without obstructing their workflow.
 
 ## Connect With Me
-Feel free to star, fork, or contribute to this project! For more inquiries or collaborations, connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile).
+Feel free to star, fork, or contribute to this project! For more inquiries or collaborations, connect with me on [LinkedIn](https://www.linkedin.com/in/srikargvs17/).
 
